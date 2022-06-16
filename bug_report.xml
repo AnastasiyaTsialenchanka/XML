@@ -1,1 +1,15 @@
-
+<Bug_report>
+  <Summery> Profile icon is positioned incorrectly</Summery>
+  <Description>Profile icon is positioned incorrectly</Description>
+  <Actual_Result>It is placed between «Markets» and «Asset Classes»</Actual_Result>
+  <Expected_Result>It is placed between «Asset Classes» and «Reuters Insider»</Expected_Result>
+<Steps_to_reproduce> 
+    <Step_1>Log in</Step_1>
+    <Step_2>Look at Main horizontal menu with icons</Step_2> 
+</Steps_to_reproduce>
+  
+  <Severity>minor</Severity>
+  <Priority>high</Priority>
+  <Reproducible>always</Reproducible>
+  
+</Bug_report>
